@@ -1,0 +1,36 @@
+body{
+    background: #ee9ca7;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #ffdde1, #ee9ca7);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #ffdde1, #ee9ca7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.dt-body-center{
+    background-color: #E2AFDE;
+    border-bottom: #F991CC 3px solid;
+}
+
+#tabla-tipo {
+    border: solid #F991CC 5px;
+    border-radius: 5px;
+}
+
+
+.td-table{
+    background-color: #f5b8db !important;
+    column-span: 2;
+}
+
+#columnatipos{
+    background-color: khaki !important;
+    
+}
+
+.dt-body-center1{
+    background-color: #E2AFDE;
+    border-bottom: #F991CC 3px solid;
+}
+
+input{
+    background-color: #ededd8 !important;
+}

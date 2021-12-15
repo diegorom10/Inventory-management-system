@@ -1,0 +1,2 @@
+-guarda en base de datos los pendientes
+-no desaprece modal de pendientes

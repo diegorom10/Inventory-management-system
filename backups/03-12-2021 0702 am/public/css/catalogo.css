@@ -1,0 +1,32 @@
+body{
+    background: #eee5e9;  /* fallback for old browsers */
+}
+
+.btn-mvm{
+
+    border-radius: 10px;
+ 
+    color: #f6caca !important;
+}
+
+.td-table {
+    background-color: #cc2936 !important;
+    color: white !important;
+}
+
+.dt-body-center {
+    background-color: white;
+    color: black;
+}
+
+.nav-theme{
+    background-color: #08415c;
+}
+
+.table-border,
+thead,
+tbody,
+tr {
+  border: 5px dotted yellow;
+
+}
