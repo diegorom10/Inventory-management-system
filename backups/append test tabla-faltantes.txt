@@ -1,7 +1,0 @@
-$("#tabla-faltantes").append("<tr><td>asdsaf</td>"
-                             + "<td>asdfasdff</td>"
-                             + "<td>assdafgsa</td>"
-                             + "<td>asdfasdfas</td>"
-                             + "<td>asdfasdff</td>"
-                             + "<td>asdadadad</td>"
-                             + "<td>asdfasdf</td></tr>");

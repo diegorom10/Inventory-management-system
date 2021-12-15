@@ -1,2 +1,0 @@
-datatable de listar cortes funciona <- se cambio serverside: false 
-					<- porque si se accede desde remoto no obtiene la data

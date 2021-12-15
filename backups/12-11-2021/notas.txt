@@ -1,1 +1,0 @@
-Modal de regresar prestamo antes de enviar faltantes a backend
